@@ -13,6 +13,7 @@ public class LineComparison
 <<<<<<< HEAD
 <<<<<<< HEAD
 		System.out.println("Welcome to Line Comparison Problem Program");
+		
 		//constants
 		int x1,y1,x2,y2;
 		double distance;
