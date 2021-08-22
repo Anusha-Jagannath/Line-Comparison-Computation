@@ -16,16 +16,11 @@ public class LineComparison
 		//constants
 		int x1,y1,x2,y2;
 		double distance;
-=======
-				//constants
-		int x1,y1,x2,y2;
-		int p1,q1,p2,q2;
+=======.        int p1,q1,p2,q2;
 		
 >>>>>>> UC2-Line-Equality
 =======
-		//constants
-		int x1,y1,x2,y2;
-		int p1,q1,p2,q2;
+		
 		
 >>>>>>> UC3-Compare-Two-Lines
 		Scanner s1=new Scanner(System.in);
