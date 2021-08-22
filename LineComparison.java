@@ -3,7 +3,7 @@ public class LineComparison
 {
 	public static void main(String[] args)
 	{
-				//constants
+		//constants
 		int x1,y1,x2,y2;
 		int p1,q1,p2,q2;
 		
