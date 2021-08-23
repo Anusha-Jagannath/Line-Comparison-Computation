@@ -26,8 +26,8 @@ public class LineComparison
 		System.out.println("Enter value of q2");
 		q2=s1.nextInt();
 		//computation
-		Double distance=Math.sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1));
-		Double distance2=Math.sqrt((p2-p1)*(p2-p1)+(q2-q1)*(q2-q1));
+		Double distance=new Double(Math.sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1)));
+		Double distance2=new Double(Math.sqrt((p2-p1)*(p2-p1)+(q2-q1)*(q2-q1)));
 		System.out.println("The distance between 2 points of Line1 is "+distance);
 		System.out.println("The distance between 2 points of Line2 is "+distance2);
 		
